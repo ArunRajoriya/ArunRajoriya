@@ -37,7 +37,7 @@
 | [**Meeting Intelligence System**](https://github.com/ArunRajoriya/Meeting-intelligence-system) | Automated meeting transcription, summarization, and action-item extraction |
 | [**Bandhan Elevators**](https://github.com/ArunRajoriya/Bandhan-Elevators) | Production website built and deployed for a real business client |
 
-> Replace the `#` links above with the actual repo URLs.
+
 
 ---
 
@@ -49,20 +49,13 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" height="165"/>
-</p>
-
----
 
 ### 📫 Connect
 
 <p align="left">
   <!-- Add your actual links -->
-  <a href="#">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/arun-rajoriya-587a6a252">LinkedIn</a> •
   <a href="#">Portfolio</a> •
-  <a href="mailto:you@example.com">Email</a>
+  <a href="mailto:arunrajoriya2004@gmail.com">Email</a>
 </p>
