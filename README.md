@@ -1,21 +1,56 @@
-<h1 align="center">Hi, I'm Arun Rajoriya 👋</h1> <h3 align="center">Software Developer | Backend • Full-Stack • AI</h3> <p align="center"> B.Tech CSE-AIML — I build scalable backend systems, full-stack applications, and AI-powered products. </p>
-🛠️ Tech Stack
+<h1 align="center">Hi, I'm Arun Rajoriya 👋</h1>
+<h3 align="center">Software Developer | Backend • Full-Stack • AI</h3>
 
-Languages & Frameworks Show Image Show Image Show Image Show Image
+<p align="center">
+  B.Tech CSE-AIML — I build scalable backend systems, full-stack applications, and AI-powered products.
+</p>
 
-Databases & Infra Show Image Show Image Show Image Show Image Show Image
+---
 
-AI / ML Show Image Show Image
+### 🛠️ Tech Stack
 
-🚀 Featured Projects
-Project	Description
-PhishGuard AI	AI-powered phishing detection system that analyzes URLs/emails to identify malicious content in real time
-Crime Analytics Dashboard	FastAPI + AI-driven dashboard for crime data visualization and trend analysis
-Meeting Intelligence System	Automated meeting transcription, summarization, and action-item extraction
-Bandhan Elevators	Production website built and deployed for a real business client
-🌱 Currently
-🔧 Strengthening DSA (Data Structures & Algorithms)
-🏗️ Building production-grade backend systems
-📚 Learning system design
-📫 Connect
-<p align="left"> <a href="https://www.linkedin.com/in/arun-rajoriya-587a6a252">LinkedIn</a> • <a href="#">Portfolio</a> • <a href="mailto:arunrajoriya2004@gmail.com">Email</a> </p>
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Databases & Infra**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI / ML**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-6E56CF?style=flat-square)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**PhishGuard AI**](https://github.com/ArunRajoriya/PhishGuard-AI) | AI-powered phishing detection system that analyzes URLs/emails to identify malicious content in real time |
+| [**Crime Analytics Dashboard**](https://github.com/ArunRajoriya/Metropolitan-Cities-Crime-Statistics-Dashboard-with-ChatBot) | FastAPI + AI-driven dashboard for crime data visualization and trend analysis |
+| [**Meeting Intelligence System**](https://github.com/ArunRajoriya/Meeting-intelligence-system) | Automated meeting transcription, summarization, and action-item extraction |
+| [**Bandhan Elevators**](https://github.com/ArunRajoriya/Bandhan-Elevators) | Production website built and deployed for a real business client |
+
+---
+
+### 🌱 Currently
+
+- 🔧 Strengthening DSA (Data Structures & Algorithms)
+- 🏗️ Building production-grade backend systems
+- 📚 Learning system design
+
+---
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arun-rajoriya-587a6a252">LinkedIn</a> •
+  <a href="#">Portfolio</a> •
+  <a href="mailto:arunrajoriya2004@gmail.com">Email</a>
+</p>
