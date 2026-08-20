@@ -32,11 +32,10 @@
 
 | Project | Description |
 |---|---|
-| [**SamvidhanAI**](#) | AI-powered Constitution Assistant — semantic search & Q&A over the Indian Constitution using RAG |
-| [**Crime Analytics Dashboard**](#) | FastAPI + AI-driven dashboard for crime data visualization and trend analysis |
-| [**Meeting Intelligence System**](#) | Automated meeting transcription, summarization, and action-item extraction |
-| [**Life Optimization Engine**](#) | AI system for personal productivity and decision optimization |
-| [**Bandhan Elevators**](#) | Production website built and deployed for a real business client |
+| [**PhishGuard AI**](https://github.com/ArunRajoriya/PhishGuard-AI) | AI-powered phishing detection system that analyzes URLs/emails to identify malicious content in real time |
+| [**Crime Analytics Dashboard**](https://github.com/ArunRajoriya/Metropolitan-Cities-Crime-Statistics-Dashboard-with-ChatBot) | FastAPI + AI-driven dashboard for crime data visualization and trend analysis |
+| [**Meeting Intelligence System**](https://github.com/ArunRajoriya/Meeting-intelligence-system) | Automated meeting transcription, summarization, and action-item extraction |
+| [**Bandhan Elevators**](https://github.com/ArunRajoriya/Bandhan-Elevators) | Production website built and deployed for a real business client |
 
 > Replace the `#` links above with the actual repo URLs.
 
