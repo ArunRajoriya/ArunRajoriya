@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arun Rajoriya 👋</h1>
-<h3 align="center">Software Developer | Backend • Full-Stack • AI</h3>
+<h3 align="center">Software Developer | Full-Stack • Backend • AI</h3>
 
 <p align="center">
   B.Tech CSE-AIML — I build scalable backend systems, full-stack applications, and AI-powered products.
