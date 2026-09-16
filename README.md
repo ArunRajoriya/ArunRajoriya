@@ -51,6 +51,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arun-rajoriya-587a6a252">LinkedIn</a> •
-  <a href="#">Portfolio</a> •
+  <a href="[#](https://arun-portfolio1.vercel.app/)">Portfolio</a> •
   <a href="mailto:arunrajoriya2004@gmail.com">Email</a>
 </p>
