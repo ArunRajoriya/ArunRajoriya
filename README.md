@@ -21,7 +21,7 @@
 * 🔌 Experienced in designing RESTful APIs, database-driven applications, and authentication systems.
 * 🤖 Exploring AI engineering, LLM integration, RAG pipelines, and intelligent applications.
 * ☁️ Expanding my knowledge of **AWS, Cloud Computing, Docker, and CI/CD**.
-* 🧠 Strengthening Data Structures & Algorithms using C++.
+* 🧠 Strengthening Data Structures & Algorithms and System Design.
 * 🚀 Interested in building scalable, reliable, and production-oriented software systems.
 
 ---
