@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arun Rajoriya 👋</h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot • Full-Stack • AI Engineering</h3>
+<h3 align="center">Software Engineer | Java • Spring Boot • Backend Systems • System Design</h3>
 
 <p align="center">
   B.Tech CSE-AIML (2026) | Building scalable backend systems, RESTful APIs, and AI-powered applications.
